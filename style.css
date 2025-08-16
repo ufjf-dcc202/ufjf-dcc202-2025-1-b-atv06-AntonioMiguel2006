@@ -46,3 +46,8 @@ body {
 .invalido {
   background-color: transparent;
 }
+
+.selecionada {
+  background-color: #d84315;
+  border-color: #ffeb3b;
+}
